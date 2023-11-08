@@ -13,13 +13,20 @@ Aplikasi SiAwan adalah aplikasi mobile dengan metode QR Code untuk melakukan pre
 
 ## Kelompok 2 PTI A 2022
 
-Anggota Kelompok : 1.	Lia Dwi Rusanti (22050974010)
-		               2.	Eliya Rahmawati (22050974012)
-		               3.	Dafina Nur Faiza (22050974035)
-		               4.	Siti Aulia Rahmadhani (22050974038)
+Anggota Kelompok : 
+1. Lia Dwi Rusanti (22050974010)
+2. Eliya Rahmawati (22050974012)
+3. Dafina Nur Faiza (22050974035)
+4. Siti Aulia Rahmadhani (22050974038)
 
 ## Website Prodi, Fakultas , dan Universitas
 
 https://pendidikan-ti.ft.unesa.ac.id
 https://unesa.ac.id
 https://ft.unesa.ac.id
+
+## Poster
+![Yellow Purple 3D Modern Download Mobile App Promotion Facebook Post](https://github.com/Liadwi29/SiAwan-Apps/assets/150239928/39acb322-715f-4b43-8633-f40f248e5be9)
+
+
+
