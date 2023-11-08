@@ -13,8 +13,8 @@ Aplikasi SiAwan adalah aplikasi mobile dengan metode QR Code untuk melakukan pre
 
 ## Tampilan Aplikasi
 ![IMG-20231108-WA0014 baruu](https://github.com/Liadwi29/SiAwan-Apps/assets/150239928/83628895-4779-4794-af76-a4eb532ee84a)
-![IMG-20231108-WA0016 baruu](https://github.com/Liadwi29/SiAwan-Apps/assets/150239928/a107a09d-9481-4d9d-9230-56fceb7556ca)
 ![IMG-20231108-WA0015 baruu](https://github.com/Liadwi29/SiAwan-Apps/assets/150239928/fc3c2d86-c5ce-4a8b-928d-7e303a294888)
+![IMG-20231108-WA0016 baruu](https://github.com/Liadwi29/SiAwan-Apps/assets/150239928/a107a09d-9481-4d9d-9230-56fceb7556ca)
 ![IMG-20231108-WA0017 baruu](https://github.com/Liadwi29/SiAwan-Apps/assets/150239928/a65c9956-3a16-4d00-a24b-b4758f99ae8b)
 
 ## Kelompok 2 PTI A 2022
