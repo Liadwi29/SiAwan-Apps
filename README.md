@@ -12,10 +12,10 @@ Aplikasi SiAwan adalah aplikasi mobile dengan metode QR Code untuk melakukan pre
 4. Easy to acces
 
 ## Tampilan Aplikasi
-![IMG-20231108-WA0014](https://github.com/Liadwi29/SiAwan-Apps/assets/150239928/a36ab7a0-3e6d-4c43-9536-63a59171ff83)
-![IMG-20231108-WA0016](https://github.com/Liadwi29/SiAwan-Apps/assets/150239928/6b5240a4-d217-4f0a-b82b-4499fa6564b6)
-![IMG-20231108-WA0017](https://github.com/Liadwi29/SiAwan-Apps/assets/150239928/30e3b0ba-cdf5-4ba9-97bf-138a480c4da3)
-![IMG-20231108-WA0015](https://github.com/Liadwi29/SiAwan-Apps/assets/150239928/06099d6c-8c11-4176-9a3a-718c4a408161)
+![IMG-20231108-WA0014 baruu](https://github.com/Liadwi29/SiAwan-Apps/assets/150239928/83628895-4779-4794-af76-a4eb532ee84a)
+![IMG-20231108-WA0016 baruu](https://github.com/Liadwi29/SiAwan-Apps/assets/150239928/a107a09d-9481-4d9d-9230-56fceb7556ca)
+![IMG-20231108-WA0015 baruu](https://github.com/Liadwi29/SiAwan-Apps/assets/150239928/fc3c2d86-c5ce-4a8b-928d-7e303a294888)
+![IMG-20231108-WA0017 baruu](https://github.com/Liadwi29/SiAwan-Apps/assets/150239928/a65c9956-3a16-4d00-a24b-b4758f99ae8b)
 
 ## Kelompok 2 PTI A 2022
 
