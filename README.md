@@ -1,16 +1,25 @@
-# presensi
+# Short Description
 
-Presensi laravel flutter
+Application SiAwan dengan berbagai fitur yang menarik dapat mempermudah melakukan presesnsi dan membuat laporan secara akurat.
 
-## Getting Started
+## Description
 
-This project is a starting point for a Flutter application.
+Aplikasi SiAwan adalah aplikasi mobile dengan metode QR Code untuk melakukan presensi. Terdapat beberapa kelebihan pada aplikasi presensi SiAwan ini yaitu 
+:
+1. Real Time
+2. Secure and Encrypted
+3. Attendance history
+4. Easy to acces
 
-A few resources to get you started if this is your first Flutter project:
+## Kelompok 2 PTI A 2022
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Anggota Kelompok : 1.	Lia Dwi Rusanti (22050974010)
+		               2.	Eliya Rahmawati (22050974012)
+		               3.	Dafina Nur Faiza (22050974035)
+		               4.	Siti Aulia Rahmadhani (22050974038)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Website Prodi, Fakultas , dan Universitas
+
+https://pendidikan-ti.ft.unesa.ac.id
+https://unesa.ac.id
+https://ft.unesa.ac.id
