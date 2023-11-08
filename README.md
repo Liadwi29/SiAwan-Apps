@@ -1,8 +1,8 @@
-# Short Description
+# Deskripsi Singkat
 
-Application SiAwan dengan berbagai fitur yang menarik dapat mempermudah melakukan presesnsi dan membuat laporan secara akurat.
+Aplikasi SiAwan dengan berbagai fitur yang menarik dapat mempermudah melakukan presesnsi dan membuat laporan secara akurat.
 
-## Description
+## Deskripsi
 
 Aplikasi SiAwan adalah aplikasi mobile dengan metode QR Code untuk melakukan presensi. Terdapat beberapa kelebihan pada aplikasi presensi SiAwan ini yaitu 
 :
